@@ -24,26 +24,20 @@
 		<h2>Serviços</h2>
 		<p>Nossos serviços de conserto de eletrônicos incluem:</p>
 		<ul>
-			<li>Celulares</li>
-			<li>Tablets</li>
-			<li>Computadores</li>
-			<li>Notebooks</li>
-			<li>Televisores</li>
-			<li>Outros dispositivos eletrônicos</li>
+				<li>Economia de dinheiro em relação à compra de um novo dispositivo.</li>
+			<li>Preservação do meio ambiente, evitando o descarte de dispositivos eletrônicos.</li>
+			<li>Diminuição da produção de lixo eletrônico.</li>
+			<li>Contribuição para a sustentabilidade e a preservação do planeta.</li>
+			<li>Redução do consumo de recursos naturais, como metais e plásticos, utilizados na produção de novos dispositivos eletrônicos.</li>
+			<li>Consciência ambiental e responsabilidade social.</li>
+			<li>Garantia de qualidade e eficiência no reparo de seus dispositivos.</li>
+			<li>Serviços rápidos e precisos, para que você não fique sem seu dispositivo por muito tempo.</li>
+			<li>Técnicos especializados e experientes, que utilizam as melhores práticas para o conserto de seus dispositivos.</li>
 		</ul>
 	</section>
 	<section id="contato">
 		<h2>Contato</h2>
 		<p>Entre em contato conosco para solicitar um orçamento ou tirar suas dúvidas sobre nossos serviços.</p>
-		<form>
-			<label for="nome">Nome:</label>
-			<input type="text" id="nome" name="nome">
-			<label for="email">E-mail:</label>
-			<input type="email" id="email" name="email">
-			<label for="mensagem">Mensagem:</label>
-			<textarea id="mensagem" name="mensagem"></textarea>
-			<button type="submit">Enviar</button>
-		</form>
 	</section>
 	<footer>
 		<p>© 2023 Magento do Brasil - Todos os direitos reservados.</p>
