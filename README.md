@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
 	<meta charset="UTF-8">
-	<title>Conserto de Eletrônicos - Magento do Brasil</title>
 	<meta name="description" content="Conserto de eletrônicos em todo o Brasil. Conte com a Magento do Brasil para reparar seus dispositivos e preservar o meio ambiente.">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
