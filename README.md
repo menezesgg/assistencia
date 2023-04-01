@@ -10,9 +10,9 @@
 		<h1>Conserto de Eletrônicos - Magento do Brasil</h1>
 		<nav>
 			<ul>
-				<li><a href="[#sobre](https://assistencia.magentodobrasil.com.br/sobre-n%C3%B3s.html)">Sobre</a></li>
-				<li><a href="[#servicos](https://assistencia.magentodobrasil.com.br/repara%C3%A7%C3%A3o.html)">Serviços</a></li>
-				<li><a href="[#contato](https://api.whatsapp.com/send?phone=556298068560&text=Preciso%20de%20assist%C3%AAncia%20t%C3%A9cnica)">Contato</a></li>
+				<li><a href="https://assistencia.magentodobrasil.com.br/sobre-n%C3%B3s.html">Sobre</a></li>
+				<li><a href="https://assistencia.magentodobrasil.com.br/repara%C3%A7%C3%A3o.html">Serviços</a></li>
+				<li><a href="https://api.whatsapp.com/send?phone=556298068560&text=Preciso%20de%20assist%C3%AAncia%20t%C3%A9cnica">Contato</a></li>
 			</ul>
 		</nav>
 	</header>
