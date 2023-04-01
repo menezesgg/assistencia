@@ -18,13 +18,13 @@
 	</header>
 	<section id="sobre">
 		<h2>Sobre</h2>
-		<p>A Magento do Brasil é uma empresa especializada em conserto de eletrônicos, atuando em todo o país para oferecer serviços de qualidade e rapidez na reparação de seus dispositivos. Além disso, estamos comprometidos em preservar o meio ambiente, evitando o descarte de dispositivos eletrônicos e incentivando a sua reparação.</p>
+		<p>A Magento do Brasil é uma empresa especializada de tecnologia, atuando em todo o país para oferecer serviços reparação em eletrônicos e hardwares, e consertos de dispositivos. Além disso, estamos comprometidos em preservar o meio ambiente, evitando o descarte de dispositivos eletrônicos e incentivando a sua reparação.</p>
 	</section>
 	<section id="servicos">
 		<h2>Serviços</h2>
 		<p>Nossos serviços de conserto de eletrônicos incluem:</p>
 		<ul>
-				<li>Economia de dinheiro em relação à compra de um novo dispositivo.</li>
+			<li>Economia de dinheiro em relação à compra de um novo dispositivo.</li>
 			<li>Preservação do meio ambiente, evitando o descarte de dispositivos eletrônicos.</li>
 			<li>Diminuição da produção de lixo eletrônico.</li>
 			<li>Contribuição para a sustentabilidade e a preservação do planeta.</li>
